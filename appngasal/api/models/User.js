@@ -51,8 +51,9 @@ module.exports = {
       return obj;
 
     }
+   
 
-
-  }
+  },
+  connection:'dbappngasal'
 };
 
